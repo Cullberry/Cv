@@ -1,0 +1,37 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family:monospace, sans-serif;
+  font-weight: normal;
+}
+
+hr{
+  width: 25%;
+}
+
+.container{
+  border: 3px solid #fff;
+  margin: 10px;
+}
+
+.one img{
+  width: 200px;
+  height: 200px;
+  border-radius: 70px;
+}
+
+.one h2,h3{
+  margin-top: 10px;
+}
+
+.one li{
+  margin-top: 5px;
+}
+
+.two h2,h3{
+  margin-top: 10px;
+}
+
+.two li{
+  margin-top: 5px;
+}
